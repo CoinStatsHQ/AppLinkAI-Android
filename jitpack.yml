@@ -1,0 +1,7 @@
+jdk:
+  - openjdk18
+before_install:
+  - ./scripts/prepareJitpackEnvironment.sh
+install:
+  - FILE="-Dfile=app_link_ai-release.aar"
+  - mvn install:install-file $File -DgroupId=applink.ai -DartifactId=applink.ai -Dversion=1.0.0 Dpackaging=aar -DgeneratePom=true
