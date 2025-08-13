@@ -1,0 +1,17 @@
+# Module-specific build outputs
+/build
+
+# Local module configuration
+local.properties
+
+# Module-specific generated files
+*.apk
+*.aab
+
+# Module lint reports
+lint-results*.xml
+lint-results*.html
+lint-baseline.xml
+
+
+
