@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>applink.ai</groupId>
     <artifactId>AppLinkAI-Android</artifactId>
-    <version>1.0.2</version>
+    <version>1.2.0</version>
     <packaging>pom</packaging>
-    <description></description>
+    <description />
 </project>
