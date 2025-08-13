@@ -31,7 +31,7 @@ android {
 }
 
 dependencies {
-    implementation("com.github.CoinStatsHQ:AppLinkAI-Android:1.0.5")
+    implementation("com.github.CoinStatsHQ:AppLinkAI-Android:1.0.6")
     implementation("androidx.core:core-ktx:1.10.1")
     implementation("androidx.appcompat:appcompat:1.6.1")
     implementation("com.google.android.material:material:1.9.0")
