@@ -1,6 +1,6 @@
 ## AppLinkAI Android SDK
 
-**Tag: 1.0.8**
+**Tag: 1.0.3**
 
 Lightweight Android/Kotlin SDK to verify deep links and receive enriched parameters from the AppLinkAI platform. The SDK handles network calls, parsing, and provides a simple API to integrate into your app.
 
